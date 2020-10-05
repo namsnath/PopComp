@@ -1,3 +1,7 @@
+<center>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/184/184578.svg">
+</center>
+
 # pop-comp
 
 > A crazy, sexy, eye-candy components library.
