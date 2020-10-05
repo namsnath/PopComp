@@ -1,5 +1,5 @@
 <center>
-  <img src="https://www.flaticon.com/svg/static/icons/svg/184/184578.svg">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/184/184578.svg" height="400" width="400">
 </center>
 
 # pop-comp
