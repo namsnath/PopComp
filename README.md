@@ -1,6 +1,6 @@
-<center>
-  <img src="https://www.flaticon.com/svg/static/icons/svg/184/184578.svg" height="400" width="400">
-</center>
+<p align="center">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/184/184578.svg" height="300" width="400">
+</p>
 
 # pop-comp
 
